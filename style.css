@@ -1,4 +1,17 @@
 * {
     background: crimson;
     color: azure;
+    margin: 0;
+}
+
+div {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    width: 200px;
+    text-align: center;
 }
